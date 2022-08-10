@@ -1,2 +1,13 @@
-h1{color:rgb(0, 89, 255)}
-h4{color:darkblue}
+h1 {color:darkblue}
+h3 {color: darkcyan}
+* {margin: 2px;
+    padding: 2px;}
+
+.Argentina{color:aqua}
+*{background-color: lightgrey;}
+*{font-family: 'Times New Roman', Times, serif;}
+
+.izq{margin-left: 2px; margin-right: 50px;}
+.med{margin-left: 25px; margin-right: 25px;}
+.der{margin-left: 50px; margin-right: 2px;}
+
