@@ -7,7 +7,5 @@ h3 {color: darkcyan}
 *{background-color: lightgrey;}
 *{font-family: 'Times New Roman', Times, serif;}
 
-.izq{margin-left: 2px; margin-right: 50px;}
-.med{margin-left: 25px; margin-right: 25px;}
-.der{margin-left: 50px; margin-right: 2px;}
+.bloque{border:2px solid blue;}
 
