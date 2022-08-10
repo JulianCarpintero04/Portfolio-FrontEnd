@@ -32,13 +32,13 @@ h3 {color: darkcyan}
     border-radius: 5px;
 }
 
-.html{width: 60%; background-color: lightgreen;}
-.python{width: 60%; background-color: lightgreen;}
-.javascript{width: 60%; background-color: lightgreen;}
-.liderazgo{width: 60%; background-color: lightgreen;}
+.html{width: 50%; background-color: lightgreen;}
+.python{width: 80%; background-color: lightgreen;}
+.javascript{width: 50%; background-color: lightgreen;}
+.liderazgo{width: 80%; background-color: lightgreen;}
 .ruby{width: 60%; background-color: lightgreen;}
-.css{width: 60%; background-color: lightgreen;}
-.excel{width: 60%; background-color: lightgreen;}
-.libros{width: 60%; background-color: lightgreen;}
-.ingles{width: 60%; background-color: lightgreen;}
-.postgresql{width: 60%; background-color: lightgreen;}
+.css{width: 50%; background-color: lightgreen;}
+.excel{width: 70%; background-color: lightgreen;}
+.libros{width: 90%; background-color: lightgreen;}
+.ingles{width: 80%; background-color: lightgreen;}
+.postgresql{width: 70%; background-color: lightgreen;}
