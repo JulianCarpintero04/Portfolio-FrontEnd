@@ -21,39 +21,24 @@ h3 {color: darkcyan}
     border-radius: 100%;
 }
 
-.column{
-    display: grid;
-    gap: 0.5em;
-}
-
-.column--right{
-    grid-template-columns: repeat(3, 1fr);
-    grid-template-rows: repeat(3, min-content);
+.container{
+    width: 50%;
+    background-color: #888;
+    border-radius: 5px;
 }
 
 .skills{
-    padding: 1em 0;
+    text-align: left;
+    border-radius: 5px;
 }
 
-.skills__item{
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-}
-
-.skills__bar,
-.skills__bar::after{
-    position: relative;
-    width: 175px;
-    height: 8px;
-    background-color: #888;
-    border-radius: var(--border-radius);
-}
-
-.skills__bar::after{
-content: '';
-position: absolute;
-left: -175px;
-background-color: var(--primary-color);
-transition: var(--transition);
-}
+.html{width: 60%; background-color: lightgreen;}
+.python{width: 60%; background-color: lightgreen;}
+.javascript{width: 60%; background-color: lightgreen;}
+.liderazgo{width: 60%; background-color: lightgreen;}
+.ruby{width: 60%; background-color: lightgreen;}
+.css{width: 60%; background-color: lightgreen;}
+.excel{width: 60%; background-color: lightgreen;}
+.libros{width: 60%; background-color: lightgreen;}
+.ingles{width: 60%; background-color: lightgreen;}
+.postgresql{width: 60%; background-color: lightgreen;}
