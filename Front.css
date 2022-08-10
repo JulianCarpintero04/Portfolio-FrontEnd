@@ -10,8 +10,8 @@ h3 {color: darkcyan}
 .bloque{border:2px solid blue;}
 
 .circulo{
-    width: 20px;
-    height: 20px;
+    width: 200px;
+    height: 200px;
     border-radius: 100%;
 }
 
