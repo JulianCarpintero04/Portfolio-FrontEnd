@@ -7,7 +7,7 @@ h3 {color: darkcyan}
 *{background-color: lightgrey;}
 *{font-family: 'Times New Roman', Times, serif;}
 
-.bloque{border:2px solid blue;}
+.bloque{ background-color: antiquewhite;}
 
 .circulo{
     width: 200px;
