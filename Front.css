@@ -21,6 +21,7 @@ h3 {color: darkcyan}
     width: 200px;
     height: 200px;
     border-radius: 100%;
+    margin-bottom: -190px;
 }
 
 .circulo >.perfil{
